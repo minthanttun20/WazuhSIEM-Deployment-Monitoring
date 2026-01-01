@@ -2,7 +2,7 @@
 A hands-on implementation of a Security Operations Center (SOC) using the Wazuh SIEM platform to monitor a Windows endpoint.
 
 ## 🚀 Project Overview
-This project demonstrates the setup of a centralized security monitoring system. I deployed a Wazuh Manager on Ubuntu to collect, analyze, and alert on telemetry from a Windows 10 Agent.
+This project demonstrates the setup of a centralized security monitoring system. I deployed a Wazuh Manager on Ubuntu to collect, analyze, and alert on telemetry from a Windows 11 Agent.
 
 ##🛠️ Core Features Tested
 Authentication Security: Detected and alerted on Brute Force (Failed Login) attempts.
